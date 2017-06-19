@@ -1,9 +1,9 @@
 
-***Coursera Data Science Capstone Project
+# Coursera Data Science Capstone Project
 
 The application is the capstone project for the Coursera Data Science specialization held by Johns Hopkins University and in cooperation with SwiftKey.
 
-**Objective
+## Objective
 
 The main goal of this capstone project is to build a shiny application that is able to predict the next word.
 
@@ -13,12 +13,12 @@ All text data that is used to create a frequency dictionary and thus to predict 
 
 All text mining and natural language processing was done with the usage of a variety of well-known R packages.
 
-*Information
+## Information
 
-The next word prediction app is hosted on shinyapps.io: https://fdaus.shinyapps.io/capstone_word_prediction_app/
+* The next word prediction app is hosted on shinyapps.io: https://fdaus.shinyapps.io/capstone_word_prediction_app/
 
-The whole code of this application, as well as all the milestone report, related scripts, this presentation etc. can be found in this GitHub repo: https://github.com/fdaus/datasciencecoursera
+* The whole code of this application, as well as all the milestone report, related scripts, this presentation etc. can be found in this GitHub repo: https://github.com/fdaus/datasciencecoursera
 
-This pitch deck is located here: https://rpubs.com/firdaus/word_prediction
+* This pitch deck is located here: https://rpubs.com/firdaus/word_prediction
 
-Learn more about the Coursera Data Science Specialization: https://www.coursera.org/specializations/jhu-data-science/
+* Learn more about the Coursera Data Science Specialization: https://www.coursera.org/specializations/jhu-data-science/
