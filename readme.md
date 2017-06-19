@@ -22,3 +22,6 @@ All text mining and natural language processing was done with the usage of a var
 * This pitch deck is located here: https://rpubs.com/firdaus/word_prediction
 
 * Learn more about the Coursera Data Science Specialization: https://www.coursera.org/specializations/jhu-data-science/
+
+
+![Alt text](/slide/logo.jpg)
